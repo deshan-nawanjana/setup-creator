@@ -1,0 +1,23 @@
+C:\Users\Deshan Nawanjana\Desktop\Set-Up Me\Set-Up Me\obj\Debug\Set-Up Me.exe
+C:\Users\Deshan Nawanjana\Desktop\Set-Up Me\Set-Up Me\obj\Debug\Set-Up Me.xml
+C:\Users\Deshan Nawanjana\Desktop\Set-Up Me\Set-Up Me\obj\Debug\Set-Up Me.pdb
+C:\Users\Deshan Nawanjana\Desktop\Set-Up Me\Set-Up Me\bin\Debug\Set-Up Me.exe
+C:\Users\Deshan Nawanjana\Desktop\Set-Up Me\Set-Up Me\bin\Debug\Set-Up Me.pdb
+C:\Users\Deshan Nawanjana\Desktop\Set-Up Me\Set-Up Me\bin\Debug\Set-Up Me.xml
+C:\Users\Deshan Nawanjana\Desktop\Set-Up Me\Set-Up Me\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Deshan Nawanjana\Desktop\Set-Up Me\Set-Up Me\obj\Debug\Set_Up_Me.Form1.resources
+C:\Users\Deshan Nawanjana\Desktop\Set-Up Me\Set-Up Me\obj\Debug\Set_Up_Me.Resources.resources
+C:\Users\Deshan Nawanjana\Desktop\Set-Up Me\Set-Up Me\obj\Debug\Set-Up Me.vbproj.GenerateResource.Cache
+C:\Users\Deshan Nawanjana\Desktop\Set-Up Me 2\Set-Up Me\obj\Debug\Set-Up Me.exe
+C:\Users\Deshan Nawanjana\Desktop\Set-Up Me 2\Set-Up Me\obj\Debug\Set-Up Me.xml
+C:\Users\Deshan Nawanjana\Desktop\Set-Up Me 2\Set-Up Me\obj\Debug\Set-Up Me.pdb
+C:\Users\Deshan Nawanjana\Desktop\Set-Up Me 2\Set-Up Me\bin\Debug\Set-Up Me.exe
+C:\Users\Deshan Nawanjana\Desktop\Set-Up Me 2\Set-Up Me\bin\Debug\Set-Up Me.pdb
+C:\Users\Deshan Nawanjana\Desktop\Set-Up Me 2\Set-Up Me\bin\Debug\Set-Up Me.xml
+C:\Users\Deshan Nawanjana\Desktop\Set-Up Me 2\Set-Up Me\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Deshan Nawanjana\Desktop\Set-Up Me 2\Set-Up Me\obj\Debug\Set_Up_Me.Form1.resources
+C:\Users\Deshan Nawanjana\Desktop\Set-Up Me 2\Set-Up Me\obj\Debug\Set_Up_Me.Resources.resources
+C:\Users\Deshan Nawanjana\Desktop\Set-Up Me 2\Set-Up Me\obj\Debug\Set-Up Me.vbproj.GenerateResource.Cache
+E:\Projects\My VB\ME SETUP\Set-Up Me 2\Set-Up Me\obj\Debug\Set-Up Me.exe
+E:\Projects\My VB\ME SETUP\Set-Up Me 2\Set-Up Me\obj\Debug\Set-Up Me.xml
+E:\Projects\My VB\ME SETUP\Set-Up Me 2\Set-Up Me\obj\Debug\Set-Up Me.pdb
